@@ -24,4 +24,10 @@ Other distributions: google it lol
 
 # USAGE
 Windows: double-click .bat file 
-Linux: open terminal in the directory where you saved the file and use the following command: ./<filename>.sh (replace filename with the file name and remove the brackets)
+Linux: open terminal in the directory where you saved the file and use the following command: ./filename.sh (replace filename with the file name)
+
+# TROUBLESHOOTING
+no devices/emulators found: this is an error which is related to device connection, check if usb debug is enabled on phone and if you get any confirmation popup, agree (could also be some driver which is not installed correctly on the computer)
+
+FAILURE not installed for 0: just don't worry, it just means that the app is already uninstalled
+
