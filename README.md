@@ -2,7 +2,7 @@
 A universal and easy way to bring fresh air for your Xiaomi phone!
 
 # PREREQUISITES
-1. ADB installed on your PC(and its relative drivers if you're using Windows)
+1. ADB installed on your PC (and its relative drivers if you're using Windows)
 2. Device running MIUI (only tested on MIUI 12 and above)
 3. Usb debugging enabled on device
 
@@ -32,3 +32,5 @@ no devices/emulators found: this is an error which is related to device connecti
 
 FAILURE not installed for 0: just don't worry, it just means that the app is already uninstalled
 
+# DOWNLOADS
+check releases on this page, if you're too lazy click [here](https://github.com/redmipocodiscussion/MiuiDebloater/releases)
