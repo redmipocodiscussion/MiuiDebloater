@@ -1,13 +1,13 @@
 # MIUI debloater script
-A universal and easy way to debloat your Xiaomi phone running Miui 12 (and above)
+A universal and easy way to bring fresh air for your Xiaomi phone!
 
 # PREREQUISITES
-1. Adb installed on your PC(and its relative drivers if you're using Windows)
+1. ADB installed on your PC(and its relative drivers if you're using Windows)
 2. Device running MIUI (only tested on MIUI 12 and above)
 3. Usb debugging enabled on device
 
 # CHOOSING THE RIGHT SCRIPT FOR YOUR NEEDS
-First off, there are 2 different scripts:
+First of, there are 2 different scripts:
 - Light version
 - Extreme version
 
