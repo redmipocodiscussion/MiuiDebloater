@@ -20,6 +20,7 @@ Download [the 15 seconds adb installer](https://forum.xda-developers.com/t/offic
 
 # HOW TO INSTALL ADB DRIVERS ON LINUX DISTRIBUTIONS
 -Debian & based distributions: sudo apt-get install android-tools-adb
+
 Other distributions: google it lol
 
 # USAGE
